@@ -4,7 +4,7 @@ Vladislavs Šušpanovs
 
 
 ## Komandas
-'''
+```
 git clone https://github.com/cimpal55/pirmaisrep.git # Lai noklonetu projektu lokali
 
 git add .
@@ -16,7 +16,7 @@ git status # uzzinat kads ir status
 git config user.name "cimpal55"
 git config user.email "cimpals71@gmail.com"
 
-'''
+```
 
 ## Izmantotā literatūra
 Super grāmata.
