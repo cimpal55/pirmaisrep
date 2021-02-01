@@ -12,3 +12,7 @@ git commit -m "Veiktas izmainas!"
 
 
 '''
+
+## Izmantotā literatūra
+Super grāmata.
+Nākamā grāmata
